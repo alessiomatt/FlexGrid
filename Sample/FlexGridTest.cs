@@ -21,7 +21,7 @@ namespace Sample
             //FlexGridExtension.x_AddColumn(this.c1FlexGrid1, "ID", false);
             //FlexGridExtension.x_AddColumn(this.c1FlexGrid1, "NAME", false);
             //this.c1FlexGrid1.x_AddColumn("AA", "한글컬럼명", false, 100, TextAlignEnum.CenterBottom);
-
+            //
             var data = TestData(10);
             DataTable dt = new DataTable();
 
